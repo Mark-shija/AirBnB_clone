@@ -1,5 +1,9 @@
   header {
       height: 70px;
+      display: flex;
+        align-items: center;
+        padding-left: 20px;
+        box-sizing: border-box;
       background-color: red;
       width: 100%;
       border-bottom: 1px #CCCCCC;
