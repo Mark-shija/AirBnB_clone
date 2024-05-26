@@ -5,7 +5,7 @@
 	- Maxius  Shija
 
 * Published on: May 13, 2024
-
+![logo.png]
 
 # Introduction - AirBnb Project
 
